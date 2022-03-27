@@ -25,6 +25,8 @@ main, header {
 
 header, footer {
   flex-shrink: 0;
+  background-color: darkblue;
+  color: #fff;
 }
 
 main {

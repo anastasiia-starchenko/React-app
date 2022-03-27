@@ -4,7 +4,7 @@ class Footer extends React.Component {
     render() {
         return (
             <footer>
-                <div style={{backgroundColor: "darkblue", color: "white"}}>Copyrights &copy;</div>
+                <div>Copyrights &copy;</div>
             </footer>
         );
     }
